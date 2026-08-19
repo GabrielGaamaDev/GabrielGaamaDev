@@ -14,6 +14,15 @@ Me chamo Gabriel Gama, tenho 22 anos e sou natural de Araraquara, São Paulo. At
         />
     </a>
 </p>
+<p align="left">
+    <a href="https://www.instagram.com/gabriielgamaa/">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/instagram/followers/GabrielGaamaDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
