@@ -1,10 +1,13 @@
-@@ -1,141 +1,141 @@
+
 # Gabriel Gama
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Gama, tenho 22 anos e sou natural de Araraquara, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
+
+<p align="left">
+    </a> 
     <a href="https://github.com/GabrielGaamaDev">
         <img 
             alt="Total de estrelas" 
