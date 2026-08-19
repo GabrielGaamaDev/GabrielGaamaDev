@@ -19,7 +19,7 @@ Me chamo Gabriel Gama, tenho 22 anos e sou natural de Araraquara, São Paulo. At
         <img 
             alt="Seguidores" 
             title="Me siga no Instagram" 
-            src="file:///C:/Users/Gabriel/OneDrive/%C3%81rea%20de%20Trabalho/instagram.svg"
+            src="https://www.instagram.com/gabriielgamaa//instagram.svg"
         />
     </a>
 </p>
