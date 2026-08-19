@@ -4,8 +4,8 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Gama, tenho 22 anos e sou natural de Araraquara, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-"[Linkedin](www.linkedin.com/in/gabriel-gama-75571a3a2)"
-"[Instagram](https://www.instagram.com/gabriielgamaa/)"
+[Me siga no Linkedin](https://www.linkedin.com/in/gabriel-gama-75571a3a2/)
+[Me siga no Instagram](https://www.instagram.com/gabriielgamaa/)
 
 
 <p align="left">
