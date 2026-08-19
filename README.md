@@ -1,7 +1,7 @@
 @@ -1,141 +1,141 @@
-# 👩🏻‍💻 Larissa Kich
+# Gabriel Gama
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Gama, tenho 22 anos e sou natural de Araraquara, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 <p align="left">
